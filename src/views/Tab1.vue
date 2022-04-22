@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Claves</ion-title>
+        <ion-title>Claves feature login</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true">
